@@ -28,6 +28,6 @@ img {
     margin-bottom: 0;
 }
 
-p {
-    text-align: justify
+.bottom-margin {
+    margin-bottom: 25px;
 }
